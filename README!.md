@@ -9,12 +9,18 @@ Unfortunately this is not the full script. loadstring("\45\45\83\99\114\105\112\
 ```
 # Features
 Antares Hub 
+
 SystemBroken 
+
 RedzHub 
+
 And more.. 
 
 # Credits
 !Davi! - Developing the Hub 
-err0r129 - Developing the Hub 
+
+err0r129 - Developing the Hub
+
 Boris - Developing the Hub 
+
 Thank you for using ASys! 
