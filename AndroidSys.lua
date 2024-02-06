@@ -1,6 +1,4 @@
---Android
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
---Windows
 local Window = OrionLib:MakeWindow({Name = "🤖SYSTEM ANDROID🤖", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 local Tab = Window:MakeTab({
 	Name = "Start🏡",
@@ -13,9 +11,15 @@ OrionLib:MakeNotification({
 	Image = "rbxassetid://7733978098",
 	Time = 8
 })
-Tab:AddLabel("Original version in English")
+OrionLib:MakeNotification({
+	Name = "Reminder",
+	Content ="If any script is in the wrong order, please tell Boris or err0r129.",
+	Image = "rbxassetid://7733978098",
+	Time = 20
+})
+Tab:AddLabel("Original version in English fixed by boris")
 Tab:AddButton({
-	Name = "Ice Hub📌",
+	Name = "SystemBroken📌",
 	Callback = function()
       		loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/script"))()
   	end    
@@ -126,3 +130,4 @@ Tab:AddButton({
       		loadstring(game:HttpGet(('https://pastefy.ga/hXHOUgDa/raw'),true))()
   	end    
 })
+OrionLib:Init()
