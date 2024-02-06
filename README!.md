@@ -1,5 +1,5 @@
 # AndroidSystem
-This is a script for Brookhaven and Portal Gunmade by err0r129 and !Davi!.
+This is a script for Brookhaven and Portal Gu by err0r129 and !Davi!.
 > [!NOTE]
 > I'm not an official AndroidSystem developer, I just fixed the mistakes. (If err0r129 accepts my pull request maybe I am lmao)
 # Brazilian Version
