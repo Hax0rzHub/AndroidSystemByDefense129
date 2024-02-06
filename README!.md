@@ -1,7 +1,7 @@
 # AndroidSystem
 This is a script for Brookhaven and Portal Gunmade by err0r129 and !Davi!.
 > [!NOTE]
-> I'm not an official AndroidSystem developer, I just fixed the mistakes.
+> I'm not an official AndroidSystem developer, I just fixed the mistakes. (If err0r129 accepts my pull request maybe I am lmao)
 # Brazilian Version
 Don't have the Brazilian version? Don't worry!
 ```lua
@@ -21,6 +21,6 @@ And more..
 
 err0r129 - Developing the Hub
 
-Boris - Developing the Hub 
+Boris - Fixing the Hub
 
 Thank you for using ASys! 
